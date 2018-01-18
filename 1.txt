@@ -1,0 +1,20 @@
+https://angular.cn/docs/ts/latest/guide/ngmodule.html
+
+
+
+https://angular.cn/docs/ts/latest/guide/router.html
+
+
+
+
+Fisheye 效果
+http://www.jb51.net/article/73681.htm 
+
+
+Fisheye Document:
+http://interface.eyecon.ro/docs/fisheye
+
+
+
+Angular各个生命周期
+http://www.cnblogs.com/SLchuck/p/5802308.html
